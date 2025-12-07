@@ -1,7 +1,7 @@
 # PassManager Accounts With Security Hash SHA256
 this passmanager save your account details on your dynamic storage
 
-<img width="4096" height="4096" alt="microsoft-linkedin1742289593" src="https://github.com/user-attachments/assets/ae88fd88-e20c-46f5-9d29-9ea9e9618b26" />
+<img width="100" height="100" alt="microsoft-linkedin1742289593" src="https://github.com/user-attachments/assets/ae88fd88-e20c-46f5-9d29-9ea9e9618b26" />
 Follow On LinkedIn: www.linkedin.com/in/hadi-gholipour-8717a1383
 
 
