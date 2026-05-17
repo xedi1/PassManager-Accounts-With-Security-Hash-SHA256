@@ -1,3 +1,12 @@
+/*
+Taxi System Snap
+Copyright (C) 2026 Edi (Hadi Gholipour)
+
+This program is licensed under the GNU General Public License v3.
+See the LICENSE file or https://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
